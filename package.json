@@ -1,0 +1,17 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dan Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.2.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "22.2.1"
+  }
+}
